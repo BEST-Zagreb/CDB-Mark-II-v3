@@ -1,5 +1,3 @@
-
-
 # Company Database
 
 ## Description
@@ -12,7 +10,15 @@ Aplikacija treba biti jednostavna za korištenje, a sučelje pregledno i intuiti
 Frontend treba biti rađen u React-u, dok Backend treba koristiti postgresql relacijsku bazu podataka i Spring boot.
 
 ## Visuals
-*Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.*
+
+<p align="center">
+    <img width="90%" alt="image" src="https://github.com/user-attachments/assets/fb414b3f-6b40-4ac1-a634-a5e663ebba65" />
+</p>
+
+## License
+Licensed under GNU GPL v3 license.
+
+## How to run
 
 ## Authors and acknowledgment
 Ivor Baričević  
