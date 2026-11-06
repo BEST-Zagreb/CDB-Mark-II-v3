@@ -60,3 +60,6 @@ Frontend/.vscode/
 Frontend/npm-debug.log*
 Frontend/yarn-debug.log*
 Frontend/yarn-error.log*
+
+### Gradle/Eclipse build output ###
+Backend/bin/
